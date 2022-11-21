@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b380ccb8-01fa-4dbc-a391-98f0a8d14361" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nojekyll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2022-02-23-welcome-to-jekyll.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/jquery.countdown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/2014-code-for-america-summit-countdown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/2015-open-data-day.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/2016-new-england-vegfest-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/2016-pizza-week-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/beyonce-countdown-01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/beyonce-countdown-02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/set-the-time-of-your-event.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.countdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categories/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero.pngZone.Identifier" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.pngZone.Identifier" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/anastaiia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/ata.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/bryan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/calum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/emily.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/ethan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/gloria.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/harrison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/harrison.pngZone.Identifier" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/igor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/jason.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/joshua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/kenton.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/lorenzo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/maks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/manuel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/manuel.jpgZone.Identifier" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/mateusz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/nausheen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/nausheen.pngZone.Identifier" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/placeholder.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/pope.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/pope.jpgZone.Identifier" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/robyn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/satya.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/satya.jpegZone.Identifier" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/sibo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/sibo.jpgZone.Identifier" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/people/suwen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/DSI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/azure.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/c1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/camdss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/dataiku.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/gcp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/ihs_markit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/imperial.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/imperial.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/jane_street.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/jane_street.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/kcldss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/lseg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/lsesu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/microsoft.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/nhs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/oxfest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/physoc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/premiere.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/premiere.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/she++.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/shell.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/shopee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/tableau.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/ucldss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsors/warwick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.min.f10155dd1126cfaa7c7e914010a80aaa678385146702b443310d920a54ced22a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.min.0b0c927b5d9bf25e5e8a554b51eb12b0e3193d65477bd4202ab4750c0be031a3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tags/index.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hpj8OTJhIXDrfXX32emd1hAVm3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b380ccb8-01fa-4dbc-a391-98f0a8d14361" name="Changes" comment="" />
+      <created>1668988765043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668988765043</updated>
+    </task>
+    <servers />
+  </component>
+</project>
